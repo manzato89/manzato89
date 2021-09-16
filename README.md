@@ -1,5 +1,5 @@
-<h1 align = "justify"> Olá <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, eu sou Anderson.</h1>
-<p align = "justify">Sou analista de Testes e Qualidade de Software.</p>
+<h1 align = "left"> Olá <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, eu sou Anderson.</h1>
+<p align = "left">Sou analista de Testes e Qualidade de Software.</p>
 
 ## :envelope: Contato
 
