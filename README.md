@@ -1,4 +1,6 @@
-<h1 align = "left"> Olá <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, eu sou Anderson./n Este Porifólio está em construção</h1>
+<h1 align = "left"> Olá <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, eu sou Anderson.</h1>
+<h1 align = "left"> Este Porifólio ainda está em construção!</h1>
+
 <p align = "left">Sou analista de Testes e Qualidade de Software.</p>
 
 ## :envelope: Contato
